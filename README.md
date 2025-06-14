@@ -76,4 +76,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## Acknowledgements
 
 - Moneycontrol for ETF data
-- requests, BeautifulSoup, dotenv – for making Python great
+- Python libraries including requests, BeautifulSoup, and python-dotenv for simplifying development.
